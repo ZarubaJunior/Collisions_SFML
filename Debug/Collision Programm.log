@@ -1,6 +1,3 @@
-﻿  Collision.cpp
-  Game.cpp
+﻿  Game.cpp
 C:\Митя\Art\Programming\Projects\Study\SAT\SAT\Game.cpp(35,39): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
-  main.cpp
-  Generating Code...
-  Collision Programm.vcxproj -> C:\Митя\Art\Programming\Projects\Study\Collision\Collision Programm\Debug\Collision Programm.exe
+  Collision Programm.vcxproj -> C:\Митя\Art\Programming\Projects\Study\GIT\Collisions_SFML\Debug\Collision Programm.exe

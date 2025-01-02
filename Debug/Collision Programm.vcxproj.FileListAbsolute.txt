@@ -1,1 +1,2 @@
 C:\Митя\Art\Programming\Projects\Study\Collision\Collision Programm\Debug\Collision Programm.exe
+C:\Митя\Art\Programming\Projects\Study\GIT\Collisions_SFML\Debug\Collision Programm.exe
